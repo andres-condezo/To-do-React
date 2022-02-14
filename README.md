@@ -25,8 +25,7 @@
 
 ## Live Demo
 
-[Math magicians Live Demo Link](https://andres-condezo.github.io/To-do-React
-/)
+[Math magicians Live Demo Link](https://andres-condezo.github.io/To-do-React/)
 
 ## Getting Started
 
