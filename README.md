@@ -6,7 +6,13 @@
 
 ## Screenshots:
 
-![screenshot](./src/assets/screenshot.png)
+- Mobile version:
+
+![screenshot](./public/assets/screenshot-mobile.png)
+
+- Desktop version:
+
+![screenshot](./public/assets/screenshot-desktop.png)
 
 ## Built With
 
